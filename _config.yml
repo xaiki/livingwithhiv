@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tower Builder
+title: Living With HIV
 
 # Logo image
-image: tb-logo.png
+image: logo-vih.png
 
 #Description of your site
 description: >-
-  TowerBuilder es un sistema que no requiere programación para generar sitios web con visualizaciones de datos de contrataciones, especialmente orientado a grandes obras públicas, inspirado por www.torredecontrol.org.
+  In Guatemala, about 46,000 people live with Human Immunodeficiency Virus. Almost 20,000 of the people living with the virus receive their antiretroviral drugs through government procurement. We have analyzed the last 7 years of these procurements in order to understand how HIV-positive people access to healthcare in the country.
 
 # The name of your graphic
-graphTitle: "Nombre del gráfico"
+graphTitle: "MSPAS"
 
 # Build settings
 plugins:
@@ -39,11 +39,16 @@ exclude:
   - node_modules
   - vendor/
   - docs/
+  - 9-styleguide.md
 
 # Collections
 collections_dir: collections
 collections:
   first-slider:
+    output: true
+  second-slider:
+    output: true
+  third-slider:
     output: true
   visualization-slider:
     output: true

@@ -1,8 +1,10 @@
 ---
 title: Slide 2
-image: graphic-example.png
+image: treatment/esquemas1.svg
 ---
 
-# THIS IS THE SECOND SLIDE
+# 92% OF PATIENTS ON FIRST LINE
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+The most recent study on patients and treatment plans is the Guatemalan Guide for Antiretroviral and Opportunistic Infections Treatment, released in 2013. According to this guide, 92% of people who live with HIV and get their treatment by the Ministry of Public Health and Social Assistance (MSPAS), are on first line, 7% of patients are on second line, and the remaining 1% is on third line. 
+
+Guatemala is one of the countries with the most cocktail medications available, in the 2015-18 period there are up to 65 different combinations.

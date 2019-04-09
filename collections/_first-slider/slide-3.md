@@ -1,8 +1,10 @@
 ---
 title: Slide 3
-image: graphic-example.png
+image: treatment/esquemas2.svg
 ---
 
-# THIS IS THE THIRD SLIDE
+# MORE INGREDIENTS, LESS TABLETS
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+In 2017, the number of tablets each patient had to take began to decrease significantly, as pharmaceutical companies started to transition from single to compound formulas. For example, different combinations with Didanosina (DDI) are replaced by Lamivudine/Zidovudine or Abacavir/Lamivudine combined into a single daily tablet, depending on clinical judgment.
+
+Another Capsule of combined medicines example is the Atripla, which contains Tenofovir, Emtricitabine and Efavirenz, according to the Health Ministry's public procurement system, based on purchases to the Global Fund, PAHO and other clinical labs.
