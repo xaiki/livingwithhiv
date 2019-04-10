@@ -1,5 +1,6 @@
 ---
 title: Slide 4
+image: contracts/slide4.png
 ---
 
 # DUOPOLY AND PRIVATE INDIVIDUALS

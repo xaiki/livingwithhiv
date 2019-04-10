@@ -1,5 +1,6 @@
 ---
 title: Slide 2
+image: contracts/slide2.png
 ---
 
 # MSPAS PURCHASES

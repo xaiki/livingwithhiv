@@ -1,5 +1,6 @@
 ---
 title: Slide 3
+image: contracts/slide3.png
 ---
 
 # PROCUREMENT CONSOLIDATION AND THERAPY CATEGORIES

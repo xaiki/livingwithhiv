@@ -1,0 +1,25 @@
+#fp-nav {
+    z-index: 1000 !important;
+}
+
+#fullpage-slider {
+    margin-top: 55px;
+}
+
+#fullpage {
+    margin-top: 70px;
+}
+
+#fullpage-slider h1,
+#fullpage h1 {
+	color: $primary;
+}
+
+.bg-image {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 35rem;
+    background: url('#{$bgHome}') no-repeat 50% fixed;
+    background-size: cover;
+}

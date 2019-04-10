@@ -4,12 +4,7 @@
     height: auto;
     min-height: 35rem;
     padding: 15rem 0;
-    // background-image: url('./img/bg-masthead.jpg');
-    background: url('#{$bgHome}');
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
+    background: url('#{$bgHome}') no-repeat 50% fixed;
     background-size: cover;
 
     h1 {

@@ -1,5 +1,6 @@
 ---
 title: First Slide
+image: contracts/slide1.png
 ---
 
 # CONTRACTS
