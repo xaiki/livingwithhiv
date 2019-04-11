@@ -1,9 +1,7 @@
 ---
 title: Introduction
-image: 
+image: titles/title3.png
 ---
-
-# COST PROJECTION DISCREPANCIES
 
 Guatemala, May 3, 2008, 11th Avenue. The constitutional court passes sentence on the failure of public health institutions: 11 constitutional lawsuits (Amparo) had to be carried out for Guatemalans to have access to their legitimate right to health.
 

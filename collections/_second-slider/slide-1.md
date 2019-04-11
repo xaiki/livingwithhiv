@@ -1,9 +1,7 @@
 ---
 title: Introduction
-image: 
+image: titles/title2.png
 ---
-
-# OVERPRICING
 
 80% of AIDS medication comes from patents that belong to GSK and Abbott. Abbott alone has earned 1.5 billion dollars a year in Lopinavir sales. This medication was key to turn VIH/AIDS into a non-fatal disease, and it became the brand's flagship since 2001.
 
