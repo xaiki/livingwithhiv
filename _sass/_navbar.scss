@@ -12,3 +12,28 @@
     color: rgba(0, 0, 0, 1);
     font-weight: bold;
 }
+
+
+.nav-item {
+    text-transform: uppercase;
+    width: 15%;
+}
+
+.nav-item a:hover {
+    font-weight: 600;
+}
+
+.nav-item a::before {
+    content: "";
+    margin: 0 auto;
+    border-bottom: 2px solid #cb2c30;
+    position: absolute;
+    bottom: 10px;
+    left: 35%;
+    right: 35%;
+    opacity: 0;
+}
+
+.nav-item a:hover::before {
+    opacity: 1;
+}
