@@ -1,7 +1,8 @@
 ---
 title: Introduction
-image: titles/title1.png
 ---
+
+# TREATMENT PLANS
 
 Guatemala currently has three HIV therapy treatment plans, based on standards and recommendations by the WHO (World Health Organization), and each line needs a different antiretroviral combination. Beyond third line, there is no treatment available in Guatemala.
 
